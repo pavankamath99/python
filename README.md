@@ -1,2 +1,1 @@
-# c-
-All interview question
+
