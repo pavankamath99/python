@@ -26,6 +26,6 @@ if (chosen_system == '2'):
   adj_height = user_height / 3.28084
   adj_weight = user_weight / 2.20462
 
-bmi = adj_weight / (adj_height * adj_height)
+bi = adj_weight / (adj_height * adj_height)
 
-print('Your body-mass-index: ' + str(bmi))
+print('Your body-mass-index: ' + str(bi))
